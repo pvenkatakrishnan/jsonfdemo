@@ -1,0 +1,7 @@
+{>"layouts/master" /}
+
+{<body}
+    {>"header" /}
+    {>"body" /}
+    {>"footer" /}
+{/body}

@@ -1,0 +1,7 @@
+
+    <div class='row'>
+        {>"description" /}
+    </div>
+    <div class='row'>
+        {>"signup" /}
+    </div>

@@ -1,0 +1,18 @@
+{
+    "body": [
+        {
+            "is": "bodyExp1",
+            "when": {
+                "experiment": "exp1"
+            }
+        }
+    ],
+    "extra": [
+        {
+            "is": "extra-europe",
+            "when": {
+                "country": ["uk","de","fr"]
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Specialization Demo</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/app.css" />
+</head>
+<body data-specialization='{_specialization|js|s}' data-template-path="{templatePath}/%s.js">
+<div id="wrapper" style="background-color:#f7f7f9;">
+    {+body /}
+</div>
+<script data-main="/js/app" src="js/lib/require-2.1.6.js"></script>
+</body>
+</html>

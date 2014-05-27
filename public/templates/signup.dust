@@ -1,0 +1,28 @@
+<div style='background-color:#fcf8e3;'>
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#">Signup</a></li>
+      <li><a href="#">Login</a></li>
+    </ul>
+    <div class="input-group">
+      <span class="input-group-addon">First Name</span>
+      <input type="text" class="form-control" placeholder="">
+    </div>
+    <div class="input-group">
+      <span class="input-group-addon">Last Name</span>
+      <input type="text" class="form-control" placeholder="">
+    </div>
+    <div class="input-group">
+      <span class="input-group-addon">Username</span>
+      <input type="text" class="form-control" placeholder="">
+    </div>
+    <div class="input-group">
+      <span class="input-group-addon">Password</span>
+      <input type="text" class="form-control" placeholder="">
+    </div>
+    <div class="input-group">
+      <span class="input-group-addon">Email</span>
+      <input type="text" class="form-control" placeholder="">
+    </div>
+    {> "extra"/}
+    <button type="button" class="btn btn-default">I want in!</button>
+</div>

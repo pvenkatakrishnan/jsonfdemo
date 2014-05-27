@@ -1,0 +1,22 @@
+<div class='col-xs-12'>
+    <ul class="nav nav-pills pad" style='background-color:#dff0d8;'>
+        <li class="active">
+            <a href="#">Home</a>
+        </li>
+        <li>
+            <a href="#">Email</a>
+        </li>
+        <li>
+            <a href="#">News</a>
+        </li>
+        <li>
+            <a href="#">Sports</a>
+        </li>
+        <li>
+            <a href="#">Weather</a>
+        </li>
+        <li>
+            <a href="#">Tech</a>
+        </li>
+    </ul>
+</div>

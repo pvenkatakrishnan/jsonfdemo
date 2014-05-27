@@ -1,0 +1,47 @@
+
+<div style='background-color:#f2dede;'>
+    <div class="row">
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail">
+          <img src="img/placeholder.jpeg" alt="placeholder">
+        </a>
+      </div>
+      <div>
+        Fusce posuere mi mi, eu cursus massa ultricies nec. Fusce in erat laoreet. Etiam sollicitudin iaculis tellus.
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail">
+          <img src="img/placeholder.jpeg" alt="placeholder">
+        </a>
+      </div>
+      <div>
+        Fusce posuere mi mi, eu cursus massa ultricies nec. Fusce in erat laoreet. Etiam sollicitudin iaculis tellus.
+      </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6 col-md-3">
+            <a href="#" class="thumbnail">
+              <img src="img/placeholder.jpeg" alt="placeholder">
+            </a>
+            </div>
+        <div>
+            Fusce posuere mi mi, eu cursus massa ultricies nec. Fusce in erat laoreet. Etiam sollicitudin iaculis tellus.
+        </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-6 col-md-3">
+        <a href="#" class="thumbnail">
+          <img src="img/placeholder.jpeg" alt="placeholder">
+        </a>
+      </div>
+      <div>
+        Fusce posuere mi mi, eu cursus massa ultricies nec. Fusce in erat laoreet. Etiam sollicitudin iaculis tellus.
+      </div>
+    </div>
+</div>

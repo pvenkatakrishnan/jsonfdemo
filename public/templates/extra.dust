@@ -1,0 +1,18 @@
+<div class="row">
+    <div class="col-sm-6">
+        <div class="input-group">
+          <span class="input-group-addon">Date of Birth</span>
+          <div class="input-group-btn">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Month <span class="caret"></span></button>
+          </div>
+
+            <div class="input-group-btn">
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Day <span class="caret"></span></button>
+            </div>
+
+             <div class="input-group-btn">
+              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Year <span class="caret"></span></button>
+             </div>
+        </div>
+    </div>
+</div>

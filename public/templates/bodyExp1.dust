@@ -1,0 +1,10 @@
+<div class='container-fluid'>
+    <div class='row'>
+        {>"nav-tab" /}
+    </div>
+    <div class='row'>
+        <div class='col-xs-4'>{>"signup" /}</div>
+        <div class='col-xs-4'>{>"content-exp1" /}</div>
+        <div class='col-xs-4'>{>"ad" /}</div>
+    </div>
+</div>

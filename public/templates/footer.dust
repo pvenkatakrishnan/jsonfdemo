@@ -1,0 +1,12 @@
+<nav class="navbar navbar-default align" role="navigation">
+    <div class="container-fluid">
+        <div class='navbar-left'>About</div>
+        <div class='navbar-left'>Jobs</div>
+        <div class='navbar-left'>Partners</div>
+        <div class='navbar-left'>Contact</div>
+        <div class='navbar-left'>Blog</div>
+
+        <div class='navbar-right'>Legal</div>
+        <div class='navbar-right'>© 1999 - 2014 Specialization</div>
+    </div>
+</nav>
