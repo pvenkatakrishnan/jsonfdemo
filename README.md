@@ -27,14 +27,14 @@ http://localhost:8000
 * Setting an experiment will show a different layout for your page with partials arranged differently
 ```
 http://localhost:8000/setCustom?experiment=exp1
-```
+http://localhost:8000/setCustom?experiment=exp1&extra=coupons
 
+```
 * Setting a country will change the signup form to cater to that country
 
 ```
 http://localhost:8000/setCustom?country=uk
 ```
-
 
 You will see that the specialization rules will be set in the session and you will be redirected to the index page with the right specialization rules.
 
