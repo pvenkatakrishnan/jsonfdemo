@@ -38,8 +38,4 @@ http://localhost:8000/setCustom?country=uk
 
 You will see that the specialization rules will be set in the session and you will be redirected to the index page with the right specialization rules.
 
-* To see client side template specialization, <TBD>
-
-###What does the sample app demonstrate ?
-
 You can play with the specialization rules in the config + what you set in the context to see how dust partials gets specialized. Have Fun!!
